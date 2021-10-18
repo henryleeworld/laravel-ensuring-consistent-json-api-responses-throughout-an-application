@@ -503,16 +503,16 @@
         },
         {
             "name": "f9webltd/laravel-api-response-helpers",
-            "version": "1.3.0",
+            "version": "1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/f9webltd/laravel-api-response-helpers.git",
-                "reference": "b5365b8bc7b9fa1566e6289bd89f44087010faa7"
+                "reference": "4e51258abdc0547e7fd789c6b9e1a2450c06def2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/f9webltd/laravel-api-response-helpers/zipball/b5365b8bc7b9fa1566e6289bd89f44087010faa7",
-                "reference": "b5365b8bc7b9fa1566e6289bd89f44087010faa7",
+                "url": "https://api.github.com/repos/f9webltd/laravel-api-response-helpers/zipball/4e51258abdc0547e7fd789c6b9e1a2450c06def2",
+                "reference": "4e51258abdc0547e7fd789c6b9e1a2450c06def2",
                 "shasum": ""
             },
             "require": {
@@ -550,9 +550,9 @@
             ],
             "support": {
                 "issues": "https://github.com/f9webltd/laravel-api-response-helpers/issues",
-                "source": "https://github.com/f9webltd/laravel-api-response-helpers/tree/1.3.0"
+                "source": "https://github.com/f9webltd/laravel-api-response-helpers/tree/1.3.2"
             },
-            "time": "2021-09-09T09:07:19+00:00"
+            "time": "2021-09-12T08:56:03+00:00"
         },
         {
             "name": "fruitcake/laravel-cors",

@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/JtJDfDr.png)
+![](https://i.imgur.com/ZIQRdcV.png)
 > 由於 JavaScript Object Notation (JSON) 回應有著一致的格式，應用程式介面接收者可以自動因應變化
