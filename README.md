@@ -1,4 +1,4 @@
-# Laravel 11 確保在整個應用程式中一致的 JavaScript Object Notation (JSON) 應用程式介面回應
+# Laravel 12 確保在整個應用程式中一致的 JavaScript Object Notation (JSON) 應用程式介面回應
 
 引入 f9webltd 的 laravel-api-response-helpers 套件來擴增確保在整個應用程式中一致的 JavaScript Object Notation (JSON) 應用程式介面回應，有了這些資訊，可以從這個應用程式介面探尋到另一個應用程式介面，從而理解到怎麼使用網站上提供的服務。
 
@@ -21,10 +21,10 @@ $ php artisan key:generate
 $ php artisan migrate --seed
 ```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
-- 你可以經由 `/api/users` 來進行使用者取得。
+- 你可以經由 `/api/v1/users` 來進行使用者取得。
 
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/SpmOJEu.png)
+![](https://i.imgur.com/4U4n0ck.png)
 > 由於 JavaScript Object Notation (JSON) 回應有著一致的格式，應用程式介面接收者可以自動因應變化

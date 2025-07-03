@@ -11,6 +11,9 @@ class UserController extends Controller
 {
     use ApiResponseHelpers;	
 
+    /**
+     * Display a listing of the resource.
+     */
     public function index(): JsonResponse
     {
         $users = User::whereNotNull('email_verified_at')->get();
